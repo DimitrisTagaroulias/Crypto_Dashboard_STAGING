@@ -10,7 +10,7 @@
 
 Description:
 
-- This is a project that helps the user to convert cryptocurrencies and get the latest cryptocurrency news..
+- This is a project that helps the user to convert cryptocurrencies and get the latest cryptocurrency news.
 
 > **_NOTE:_** The site with the news needs VPN.
 
